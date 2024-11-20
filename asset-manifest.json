@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DigitalSchoolApp/static/css/main.2e88afd4.css",
+    "main.js": "/DigitalSchoolApp/static/js/main.e09e34fd.js",
+    "static/js/453.9f034488.chunk.js": "/DigitalSchoolApp/static/js/453.9f034488.chunk.js",
+    "index.html": "/DigitalSchoolApp/index.html",
+    "main.2e88afd4.css.map": "/DigitalSchoolApp/static/css/main.2e88afd4.css.map",
+    "main.e09e34fd.js.map": "/DigitalSchoolApp/static/js/main.e09e34fd.js.map",
+    "453.9f034488.chunk.js.map": "/DigitalSchoolApp/static/js/453.9f034488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e88afd4.css",
+    "static/js/main.e09e34fd.js"
+  ]
+}

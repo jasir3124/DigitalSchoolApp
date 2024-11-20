@@ -40,6 +40,9 @@ const router = createBrowserRouter([
       }
     ],
   },
+  {
+    basename: "DigitalSchoolApp"
+  }
   
 ]);
 
